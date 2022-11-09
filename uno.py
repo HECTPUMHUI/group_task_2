@@ -8,7 +8,7 @@ ctype = {'0': 'number', '1': 'number', '2': 'number', '3': 'number', '4': 'numbe
          '7': 'number', '8': 'number', '9': 'number', 'Skip': 'action', 'Reverse': 'action', 'Draw2': 'action',
          'Draw4': 'action_nocolor', 'Wild': 'action_nocolor'}
 
-
+# egg
 class Card:
 
     def __init__(self, color, rank):
